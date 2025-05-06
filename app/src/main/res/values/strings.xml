@@ -7,4 +7,9 @@
     <string name="telefone_icon">Call</string>
     <string name="whats_icon">Whatsapp</string>
     <string name="estrela_icon">Favorite</string>
+    <string name="email_text">Email</string>
+    <string name="official_text">Official</string>
+    <string name="official_email">michael.mitc@example.com</string>
+    <string name="personal_text">Personal</string>
+    <string name="personal_email">michael@example.com</string>
 </resources>
