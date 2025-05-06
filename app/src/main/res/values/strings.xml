@@ -3,4 +3,8 @@
     <string name="details_name">Details</string>
     <string name="nome_1">Jenny Wilson</string>
     <string name="profissao">Sr.Ul/Ux Designer</string>
+    <string name="email_icon">Email</string>
+    <string name="telefone_icon">Call</string>
+    <string name="whats_icon">Whatsapp</string>
+    <string name="estrela_icon">Favorite</string>
 </resources>
