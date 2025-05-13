@@ -5,6 +5,7 @@
     <string name="profissao">Sr.Ul/Ux Designer</string>
     <string name="email_icon">Email</string>
     <string name="telefone_icon">Call</string>
+    <string name="telephone_number">Phone number</string>
     <string name="whats_icon">Whatsapp</string>
     <string name="estrela_icon">Favorite</string>
     <string name="email_text">Email</string>
@@ -12,4 +13,11 @@
     <string name="official_email">michael.mitc@example.com</string>
     <string name="personal_text">Personal</string>
     <string name="personal_email">michael@example.com</string>
+    <string name="mobile_text">Mobile</string>
+    <string name="mobile_phone">(209) 55-0104</string>
+    <string name="team_text">Team</string>
+    <string name="team_t">Project Operation Team</string>
+    <string name="text_by">Leads by</string>
+    <string name="leads_segundo">Darrell Steward</string>
+    <string name="add">Add to contact</string>
 </resources>
